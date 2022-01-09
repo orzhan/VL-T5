@@ -2,6 +2,8 @@
 
 * [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cvGTSittlB0sckKtPk1R7J4GupfjgHKl?usp=sharing) (Inference example with Russian pretrained model)
 
+![example](./assets/example.png)
+
 # Unifying Vision-and-Language Tasks via Text Generation
 
 * Authors: [Jaemin Cho](https://j-min.io), [Jie Lei](https://www.cs.unc.edu/~jielei/), [Hao Tan](https://www.cs.unc.edu/~airsplay/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/)
