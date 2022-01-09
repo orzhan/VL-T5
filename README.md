@@ -1,6 +1,6 @@
 # Pretrained model for Russian
 
-* [![Open in Colab](https://colab.research.google.com/drive/1cvGTSittlB0sckKtPk1R7J4GupfjgHKl?usp=sharing) (Inference example with Russian pretrained model)
+* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cvGTSittlB0sckKtPk1R7J4GupfjgHKl?usp=sharing) (Inference example with Russian pretrained model)
 
 # Unifying Vision-and-Language Tasks via Text Generation
 
